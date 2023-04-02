@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(0, 158, 249);
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form{
+    margin-top: 30px;
+}
+#country-state{
+    padding: 10px;
+    width: 200px;
+}
+#country{
+    padding: 10px;
+}
+button{
+    width: 100px;
+}
+.info{
+background-color: lavender;
+font-weight: 900;
+}
